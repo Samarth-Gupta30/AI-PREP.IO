@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  /* Your custom configurations go here instead of a config file */
+  --color-brand-primary: #123456;
+  --font-display: "Inter", sans-serif;
+}
